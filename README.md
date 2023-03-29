@@ -6,4 +6,4 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![SpyHimself's Medium](https://github-readme-medium.vercel.app/?username=spyhimself)](https://medium.com/@aymantarar7)
+[![Omid Nikrah Medium](https://github-readme-medium.vercel.app/?username=spyhimself&limit=2&bg=red&text=green)](https://medium.com/@aymantarar7)
