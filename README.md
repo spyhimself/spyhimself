@@ -1,7 +1,5 @@
 ![](https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+Profile;Have+Fun+!)
 
-![Header](./your-header-image-name.png)
-
 ![](https://github-readme-stats.vercel.app/api?username=spyhimself)
 
 ![](https://readme-jokes.vercel.app/api)
