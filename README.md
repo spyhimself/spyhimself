@@ -1,5 +1,5 @@
-# Hi, I'm Ayman TARAR <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
-# replace contents according to you.
+# Hi, I'm Ayman TARAR :wave:
+# About Me 
 <table>
 <tr>
   <td valign="center">
