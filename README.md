@@ -1,9 +1,9 @@
-# Hi, I'm Ayman TARAR:wave:
+# Hi, I'm Ayman TARAR :wave:
 # About Me 
 <table>
 <tr>
   <td valign="center">
-    🎓 I am currently pursuing my **Bachelor's in Computer Science Engineering**.
+    🎓 I am currently pursuing my studies at the **Moroccan School of Engineering Sciences (EMSI)**.
     🌱 I am currently learning **Java** and also interested in **Web Development**.
     🎯 My Goal is to Contribute to as many **open source project** as possible.
     ✨ I love to create different types of **contents**.
@@ -13,3 +13,4 @@
   </td>
 </tr>
 </table>
+<!--START_SECTION:activity-->
