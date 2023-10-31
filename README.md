@@ -1,1 +1,1 @@
-# Hi, I'm Ayman TARAR <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
+# Hi, I'm Ayman TARAR <script src="https://gist.github.com/arunprakashpj/48aa20057048b46c6f9ba9d114a8b76f.js"></script>
