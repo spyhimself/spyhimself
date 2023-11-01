@@ -12,6 +12,6 @@ jobs:
 
     steps:
       - uses: actions/checkout@v3
-      - uses: spyhimself/update-readme.yml@main
+      - uses: spyhimself/update-readme.yml@master
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
