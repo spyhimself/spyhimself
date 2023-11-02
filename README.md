@@ -1,4 +1,3 @@
-<!--START_SECTION:activity-->
 # Hi, I'm Ayman TARAR :wave:
 # About Me 
 <table>
@@ -14,3 +13,4 @@
 </td>
 </tr>
 </table>
+<!--START_SECTION:activity-->
