@@ -13,4 +13,4 @@
 </td>
 </tr>
 </table>
-<!--START_SECTION:activity-->
+START_SECTION:activity
